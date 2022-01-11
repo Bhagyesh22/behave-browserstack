@@ -13,7 +13,7 @@ steps:
 
 - task: BrowserStackConfig@0
   inputs:
-    BrowserStackServiceEndPoint: 'bstack-demo'
+    BrowserStackServiceEndPoint: 'BrowserStack Bhagyesh''s Connection'
 - task: CmdLine@2
   inputs:
     script: |
